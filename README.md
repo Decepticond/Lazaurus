@@ -1,4 +1,4 @@
-### Lazaurus Cryptography, reverse engineering, and malware enthusiast. 
+### Lazaurus- Cryptography, reverse engineering, and malware enthusiast. 
 
 
 *The C++20 AM is pretty cool.*
